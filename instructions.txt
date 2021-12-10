@@ -1,0 +1,15 @@
+SQLite Database in Python
+
+Adgenda Of the Class Today
+1.Get user input
+2. Store in the database
+
+Write a python program that will
+1. Ask For Database Name
+2. Ask for table Name
+3. Ask for Data
+4. Store the Data in table
+5. Retreive the Data from table
+
+
+
